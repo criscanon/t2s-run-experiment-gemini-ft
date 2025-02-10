@@ -1,0 +1,19 @@
+{
+    "api_key_gemini": "your-api-key",
+    "model_gemini_ft_1": "tunedModels/your-tuned-model-1",
+    "model_gemini_ft_2": "tunedModels/your-tuned-model-2",
+    "model_gemini_ft_3": "tunedModels/your-tuned-model-3",
+    "model_gemini_ft_4": "tunedModels/your-tuned-model-4",
+    "model_gemini_ft_5": "tunedModels/your-tuned-model-5",
+    "model_gemini_ft_6": "tunedModels/your-tuned-model-6",
+    "connection_string": "sqlite:///database/sqlite-sakila.db",
+    "dataset_excel_path": "dataset/data-nlq-sql.xlsx",
+    "output_file_train": "dataset/nlq-sql-train.xlsx",
+    "output_file_test": "dataset/nlq-sql-test.xlsx",
+    "output_file_train_2": "dataset/nlq-sql-train-2.xlsx",
+    "output_file_test_2": "dataset/nlq-sql-test-2.xlsx",
+    "output_file_train_3": "dataset/nlq-sql-train-3.xlsx",
+    "output_file_test_3": "dataset/nlq-sql-test-3.xlsx",
+    "output_path": "findings/",
+    "test_size": 0.34
+}
