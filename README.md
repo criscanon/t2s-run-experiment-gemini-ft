@@ -1,4 +1,4 @@
-# T2S Run Experiment Gemini Fine-Tuning
+# t2s-run-experiment-gemini-ft
 
 This repository contains Python scripts to run experiments using a **fine-tuned Gemini model**. It automates:
 1. Generating SQL queries from natural language questions (NLQs).
