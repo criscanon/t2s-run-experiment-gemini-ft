@@ -34,14 +34,17 @@ This repository contains Python scripts to run experiments using a **fine-tuned 
 ## Requirements and Installation
 
 1. **Clone this repository**:
-
+   ```sh
     git clone https://github.com/cecanong/t2s-run-experiment-gemini-ft.git
     cd t2s-run-experiment-gemini-ft
+   ```
 
 2. **Install the required dependencies**:
 
+   ```sh
     pip install -r requirements.txt
-
+   ```
+   
    Make sure you have a Python 3.x environment set up.
 
 3. **Credentials for Generative AI**:
