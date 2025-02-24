@@ -119,4 +119,6 @@ All experiment settings are stored in config.json. Below is an example structure
 
 ## License
 
-This project does not currently specify a license. If you plan to share or modify the code, please include an appropriate open-source license and attribution.
+This project is released under the [MIT License](LICENSE) (or add your chosen license here). Feel free to use and adapt the code according to its terms.
+
+---
